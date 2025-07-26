@@ -1,6 +1,8 @@
 import React from 'react'
 import Header from './componants/Header'
 import Banner from './componants/Banner'
+import About from './componants/About'
+import What from './componants/What'
 
 
 const App = () => {
@@ -8,6 +10,8 @@ const App = () => {
    <>
    <Header/>
    <Banner/>
+   <About/>
+   <What/>
    
    </>
   )
