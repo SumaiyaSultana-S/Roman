@@ -47,8 +47,11 @@ const About = () => {
           </div>
         </Flex>
         <div className="">
-          <Flex className="justify-around  mt-[51px]">
-            <Item />
+          <Flex className="justify-between  mt-[51px]">
+            <Item title="Name:" text="Roman Islam Joy"/>
+            <Item title="Name:" text="Roman Islam Joy"/>
+            <Item title="Name:" text="Roman Islam Joy"/>
+            <Item title="Name:" text="Roman Islam Joy"/>
           </Flex>
         </div>
       </Container>
